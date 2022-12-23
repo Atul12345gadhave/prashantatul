@@ -10,6 +10,12 @@ import UtilityMavan.Utility;
 public class POMNeoStoxPassword {
 
 	
+	
+	
+	
+	
+	// changes
+	
 	@FindBy(id="txt_accesspin") private WebElement password;
 	
 	@FindBy(id="lnk_submitaccesspin")private WebElement submitButton;
