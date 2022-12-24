@@ -14,6 +14,12 @@ public class POMNeoStoxPassword {
 	
 	
 	
+	
+	//jenkins
+	
+	
+	
+	
 	// changes
 	
 	@FindBy(id="txt_accesspin") private WebElement password;
