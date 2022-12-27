@@ -19,6 +19,11 @@ import UtilityMavan.utilityForPropertiesfile;
 //@Listeners(liistener.listnerNeoStox.class)
 
 
+
+
+
+
+//jenking run chanhes
 public class NeoStoxTestbypropertiesfile extends BaseForPropertiesFile{
 
 	POMNeostoxSignUpPage1 login;
